@@ -1,0 +1,1462 @@
+{
+  "intents": [
+    {
+      "tag": "cara_daftar_magang",
+      "category": "Pendaftaran",
+      "patterns": [
+        "Bagaimana cara mendaftar magang?",
+        "Cara daftar magang gimana?",
+        "Mau daftar magang, gimana caranya?",
+        "gmn cara daftar magang",
+        "cara ndaftar magang gimana",
+        "aku mau ikut magang, langkahnya gimana ya",
+        "step2 daftar magang apa aja",
+        "pengen magang, mulai dari mana ya",
+        "daftar magang caranya gimana sih",
+        "mau apply magang gimana caranya",
+        "gimana daftarnya",
+        "alur pendaftaran magang dari awal sampai akhir gimana",
+        "kalau mau ikut magang harus mulai dari mana dulu",
+        "urutan proses daftar magang itu apa aja",
+        "buat mulai daftar magang aku harus ngapain",
+        "prosedur awal buat daftar magang gimana",
+        "tolong jelasin cara daftar magang dari nol",
+        "aku baru mau daftar magang, mulai darimana",
+        "buat apply magang di sini gimana caranya",
+        "cara ikutan program magang di perusahaan ini gimana",
+        "tahapan submit pendaftaran magang urutannya kayak apa",
+        "langkah demi langkah proses apply magang gimana",
+        "mekanisme pengisian form pendaftaran magang gimana caranya"
+      ],
+      "responses": [
+        "Untuk mendaftar program magang, silakan menghubungi Admin Magang terlebih dahulu untuk mendapatkan informasi mengenai posisi yang tersedia. Setelah itu, lengkapi dan kirimkan formulir pendaftaran beserta dokumen yang diminta. Pastikan seluruh data yang diisi sudah benar agar proses seleksi dapat berjalan dengan lancar.\n\nDokumen yang perlu disiapkan:\nA. Magang Reguler (Program wajib dari kampus)\n- Scan KTM.\n- Scan KTP.\n- Gabungkan kedua dokumen tersebut dalam 1 file PDF.\n\nB. Magang Mandiri (Bukan program wajib dari kampus)\n- Scan KTP dalam format PDF.\n\nSeluruh dokumen diunggah melalui Form Pendaftaran Magang Jogja: bit.ly/form_magangjogja\nPastikan seluruh berkas diunggah dalam 1 file PDF. Khusus pelamar Videografer dan Desain Grafis, disarankan untuk menyertakan portofolio sebagai nilai tambah dalam proses seleksi.\n\nSetelah berhasil mengisi formulir pendaftaran, mohon lakukan konfirmasi dengan membalas pesan: \"SAYA SUDAH ISI FORM\" agar Admin dapat melakukan pengecekan dan memproses pendaftaran Anda. Terima kasih. 🙏😊"
+      ],
+      "keywords": [
+        "daftar magang",
+        "cara daftar",
+        "apply magang",
+        "cara ikut magang",
+        "langkah daftar magang"
+      ]
+    },
+    {
+      "tag": "tentang_siva",
+      "category": "siva",
+      "patterns": [
+        "siva ini apa ya",
+        "siva itu apa",
+        "bot ini untuk apa",
+        "apa fungsi bot ini",
+        "kamu bot apa",
+        "kamu chatbot apa",
+        "siva ini asisten virtual buat apa",
+        "kenalan dong kamu siapa",
+        "siva bisa bantu apa aja",
+        "ini bot otomatis buat jawab apa aja",
+        "siva itu singkatan dari apa",
+        "kamu ini bot HMIF ya",
+        "fungsi utama siva buat apa",
+        "siva dibuat buat ngebantu apa",
+        "kamu asisten chatbot magang ya",
+        "boleh kenalan, kamu siva siapa"
+      ],
+      "responses": [
+        "SIVA adalah asisten virtual untuk membantu proses pendaftaran magang, mulai dari pengisian data, info jadwal, shift, kantor penempatan, sampai peraturan magang. Ketik /pendaftaran untuk mulai mendaftar, atau /faq untuk lihat contoh pertanyaan lain."
+      ],
+      "keywords": [
+        "siva itu",
+        "bot ini",
+        "kamu siapa",
+        "asisten virtual",
+        "fungsi siva"
+      ]
+    },
+    {
+      "tag": "status_pembukaan_magang",
+      "category": "Pendaftaran",
+      "patterns": [
+        "Apakah program magang sedang dibuka?",
+        "Magang lagi buka gak?",
+        "Kapan pendaftaran magang dibuka?",
+        "magang masih buka gak ya",
+        "info lowongan magang kapan dibuka",
+        "sekarang lagi ada penerimaan magang gak",
+        "pendaftaran magang masih open?",
+        "kapan open recruitment magang",
+        "magang batch ini masih bisa daftar gak",
+        "penerimaan magang batch sekarang udah dibuka belum",
+        "info pembukaan pendaftaran magang terbaru gimana",
+        "sekarang statusnya lagi buka pendaftaran atau tutup",
+        "magang periode ini udah mulai nerima pendaftar belum",
+        "kapan tepatnya pendaftaran magang dibuka lagi",
+        "info buka tutup pendaftaran magang dimana bisa dicek",
+        "sekarang lagi masa pendaftaran magang atau enggak",
+        "kapan jadwal pembukaan program magang selanjutnya",
+        "pendaftaran magang periode sekarang statusnya aktif atau ditutup",
+        "info penerimaan magang saat ini sedang berjalan atau belum",
+        "recruitment magang lagi jalan atau enggak sekarang",
+        "apakah saat ini masih menerima pendaftar magang baru"
+      ],
+      "responses": [
+        "Ya, saat ini program magang sedang dibuka. Informasi mengenai posisi yang tersedia, periode pendaftaran, dan kuota dapat ditanyakan langsung kepada Admin Magang."
+      ],
+      "keywords": [
+        "magang dibuka",
+        "pendaftaran dibuka",
+        "open recruitment",
+        "masih buka",
+        "batch magang"
+      ]
+    },
+    {
+      "tag": "syarat_peserta_magang",
+      "category": "Pendaftaran",
+      "patterns": [
+        "Siapa saja yang dapat mengikuti program magang?",
+        "Siapa yang boleh ikut magang?",
+        "Magang ini untuk siapa saja?",
+        "boleh magang gak kalau masih SMA",
+        "yang bisa ikut magang kriterianya apa",
+        "magang ini terbuka buat siapa aja",
+        "anak sma boleh daftar magang gak",
+        "fresh graduate boleh daftar magang gak",
+        "target peserta magang siapa aja",
+        "Apakah perusahaan menerima mahasiswa?",
+        "Mahasiswa bisa magang di sini gak?",
+        "mahasiswa boleh daftar magang gak",
+        "khusus smk doang atau mahasiswa juga bisa",
+        "kuliah masih aktif boleh magang gak",
+        "mahasiswa semester berapa boleh daftar",
+        "terbuka buat mahasiswa gak",
+        "anak kuliahan bisa apply magang gak",
+        "yang boleh ikut magang itu dari kalangan mana aja secara umum",
+        "kriteria umum peserta yang diterima magang apa",
+        "siapa aja yang memenuhi syarat buat magang di sini",
+        "target peserta program magang ini siapa aja secara umum",
+        "magang ini terbuka untuk kalangan apa aja",
+        "boleh ikut magang kalau statusnya masih pelajar/mahasiswa aktif gak",
+        "siapa yang eligible buat daftar program magang ini",
+        "magang ini terbuka buat kalangan umum atau khusus tertentu aja",
+        "yang boleh daftar magang itu dari latar belakang pendidikan apa aja secara umum"
+      ],
+      "responses": [
+        "Program magang terbuka bagi:\n- Siswa SMK.\n- Lulusan SMA/SMK.\n- Mahasiswa dari berbagai jurusan.\n- Fresh graduate yang ingin menambah pengalaman kerja."
+      ],
+      "keywords": [
+        "boleh ikut magang",
+        "syarat peserta",
+        "anak sma boleh",
+        "mahasiswa boleh magang",
+        "target peserta"
+      ]
+    },
+    {
+      "tag": "persyaratan_pendaftaran",
+      "category": "Pendaftaran",
+      "patterns": [
+        "Apa persyaratan untuk mendaftar?",
+        "Syarat daftar magang apa aja?",
+        "syarat2 daftar apa aja",
+        "apa aja yg dibutuhin buat daftar magang",
+        "requirement daftar magang apa",
+        "sblm daftar harus siapin apa",
+        "ketentuan pendaftaran magang gimana",
+        "apa yg wajib disiapin sebelum daftar",
+        "kriteria peserta magang apa aja",
+        "batasan usia atau pendidikan buat daftar magang",
+        "syarat umum diterima magang apa",
+        "ketentuan siapa yang boleh daftar magang",
+        "dokumen apa aja yang perlu diupload buat daftar",
+        "sebelum daftar magang harus siapin dokumen apa",
+        "identitas yang perlu dilampirkan buat daftar apa aja",
+        "formulir pendaftaran isinya apa aja",
+        "checklist syarat administrasi buat daftar magang apa aja",
+        "hal-hal wajib yang harus dipenuhi buat bisa daftar magang apa",
+        "supaya pendaftarannya valid, syaratnya apa aja",
+        "list requirement lengkap buat apply magang apa",
+        "biar bisa lolos tahap administrasi, apa yang perlu disiapin",
+        "kualifikasi wajib dipenuhi calon peserta sebelum bisa daftar apa aja",
+        "eligibility criteria buat bisa apply magang di sini apa",
+        "prasyarat administratif yang menentukan lolos gak nya pendaftaran apa",
+        "kriteria kelayakan calon peserta magang itu apa aja",
+        "standar minimal yang harus dipenuhi buat bisa daftar apa",
+        "syarat administratif dan akademik buat daftar magang apa aja",
+        "kriteria umur atau jenjang pendidikan buat bisa daftar magang apa",
+        "syarat kelayakan umum di luar dokumen buat daftar magang apa",
+        "batas usia minimal atau maksimal buat daftar magang berapa"
+      ],
+      "responses": [
+        "Calon peserta diwajibkan mengisi formulir pendaftaran dan melampirkan dokumen identitas berupa scan atau foto KTP, KTM, atau Kartu Pelajar (sesuai status peserta). Pastikan dokumen yang diunggah jelas dan mudah dibaca."
+      ],
+      "keywords": [
+        "syarat daftar",
+        "persyaratan magang",
+        "requirement daftar",
+        "syarat administrasi",
+        "ketentuan pendaftaran",
+        "kriteria umur",
+        "batas usia"
+      ]
+    },
+    {
+      "tag": "dokumen_yang_disiapkan",
+      "category": "Pendaftaran",
+      "patterns": [
+        "Dokumen apa saja yang harus disiapkan?",
+        "Berkas apa yang perlu disiapin buat daftar?",
+        "berkas apa yg perlu disiapin buat daftar",
+        "dokumen wajib buat daftar magang apa aja",
+        "yang perlu di-scan apa aja",
+        "file yang harus diupload apa aja",
+        "persiapan berkas pendaftaran apa aja",
+        "dokumen pendukung daftar magang apa",
+        "berkas file yang perlu diupload apa aja",
+        "dokumen fisik/scan yang wajib dilampirkan apa",
+        "file pendaftaran yang harus disiapkan apa aja",
+        "berkas administrasi buat daftar apa aja",
+        "list lengkap dokumen yang mesti disiapin sebelum daftar apa",
+        "berkas administratif yang wajib dilampirkan pas daftar apa aja",
+        "dokumen pribadi yang perlu di-scan buat daftar magang apa aja",
+        "sebelum isi form pendaftaran, dokumen apa yang harus udah siap",
+        "berkas identitas yang perlu disiapin buat proses daftar apa",
+        "dokumen legal yang dibutuhin buat daftar magang apa aja",
+        "file yang perlu di-scan sebelum isi form pendaftaran apa aja",
+        "dokumen identitas dalam bentuk pdf atau jpg yang perlu disiapin apa",
+        "sebelum upload form, dokumen fisik yang perlu difoto apa aja"
+      ],
+      "responses": [
+        "Dokumen utama yang perlu disiapkan adalah Fotokopi atau scan KTP/KTM/Kartu Pelajar."
+      ],
+      "keywords": [
+        "dokumen disiapkan",
+        "berkas disiapkan",
+        "file diupload",
+        "dokumen pendaftaran"
+      ]
+    },
+    {
+      "tag": "wajib_cv",
+      "category": "Pendaftaran",
+      "patterns": [
+        "Apakah harus mengirim CV?",
+        "CV wajib gak buat daftar magang?",
+        "kalau gapunya cv gimana",
+        "cv nya wajib banget gak",
+        "harus punya cv dulu buat daftar magang?",
+        "belum punya cv boleh daftar gak",
+        "cv itu wajib atau opsional",
+        "gaperlu cv kah buat daftar",
+        "pas daftar magang, cv termasuk dokumen wajib gak",
+        "kalau ngirim lamaran magang tanpa cv bisa diproses gak",
+        "cv jadi syarat utama buat daftar magang gak",
+        "harus lampirin curriculum vitae gak pas apply magang",
+        "cv itu termasuk berkas wajib pas pendaftaran gak",
+        "boleh daftar magang tanpa nyertain cv gak",
+        "cv nya kudu ada pas submit form daftar gak",
+        "apa cv termasuk salah satu syarat administrasi daftar magang",
+        "cv itu maksudnya riwayat hidup kan, wajib dilampirkan gak",
+        "gak punya riwayat hidup tertulis, masih bisa daftar magang gak",
+        "curriculum vitae pribadi wajib disertakan pas daftar gak",
+        "resume kerja jadi syarat wajib pendaftaran magang gak"
+      ],
+      "responses": [
+        "Tidak wajib. Jika belum memiliki CV, Anda tetap dapat mendaftar dengan melampirkan scan KTP, KTM, atau Kartu Pelajar sebagai pengganti. Namun, apabila memiliki CV, disarankan untuk tetap melampirkannya karena dapat membantu proses penilaian."
+      ],
+      "keywords": [
+        "wajib cv",
+        "cv wajib",
+        "punya cv",
+        "curriculum vitae",
+        "riwayat hidup"
+      ]
+    },
+    {
+      "tag": "wajib_portofolio",
+      "category": "Pendaftaran",
+      "patterns": [
+        "Apakah portofolio wajib?",
+        "Perlu portofolio gak buat daftar?",
+        "portofolio nya wajib gak",
+        "kalau gapunya portofolio gimana",
+        "harus ada portofolio buat daftar?",
+        "belum punya portofolio boleh daftar gak",
+        "portofolio itu wajib atau opsional",
+        "daftar tanpa portofolio bisa gak",
+        "portofolio termasuk dokumen wajib pas daftar gak",
+        "pas apply magang, wajib nyertain portofolio karya gak",
+        "buat posisi non-desain, portofolio tetep wajib gak",
+        "kalau belum ada portofolio, pendaftaran bisa diproses gak",
+        "portofolio jadi syarat administrasi wajib gak buat daftar",
+        "khusus posisi tertentu aja yang wajib portofolio atau semua",
+        "portofolio kerja perlu dilampirkan pas daftar magang gak",
+        "kumpulan karya desain wajib dilampirkan pas daftar gak",
+        "contoh hasil kerja atau karya pribadi wajib disertakan gak",
+        "link portfolio online kayak behance wajib dicantumkan gak",
+        "sample project pribadi jadi syarat wajib daftar gak"
+      ],
+      "responses": [
+        "Tidak wajib. Namun, jika Anda memiliki portofolio yang relevan dengan posisi yang dilamar, sangat disarankan untuk melampirkannya sebagai nilai tambah dalam proses seleksi."
+      ],
+      "keywords": [
+        "wajib portofolio",
+        "portofolio wajib",
+        "punya portofolio",
+        "kumpulan karya",
+        "contoh karya"
+      ]
+    },
+    {
+      "tag": "surat_pengantar",
+      "category": "Pendaftaran",
+      "patterns": [
+        "Apakah surat pengantar dari sekolah atau kampus diperlukan?",
+        "Perlu surat pengantar dari kampus gak?",
+        "butuh surat pengantar dari sekolah gak",
+        "surat pengantar dari kampus wajib gak",
+        "kalau kampus minta surat pengantar gimana",
+        "perlu surat pengantar magang gak",
+        "surat keterangan dari kampus diperlukan gak",
+        "gaada surat pengantar boleh daftar gak",
+        "kampus/sekolah wajib nerbitin surat pengantar buat magang gak",
+        "surat pengantar resmi dari institusi pendidikan itu wajib gak",
+        "kalau kampus gak nyediain surat pengantar gimana solusinya",
+        "surat rekomendasi dari kampus termasuk syarat wajib gak",
+        "surat pengantar magang formatnya dari kampus atau bebas",
+        "perlu surat resmi dari almamater buat daftar magang gak"
+      ],
+      "responses": [
+        "Surat pengantar tidak wajib saat proses pendaftaran. Namun, apabila sekolah atau kampus Anda mewajibkan adanya surat pengantar untuk kegiatan magang, silakan melampirkannya agar administrasi dapat diproses dengan lebih mudah."
+      ],
+      "keywords": [
+        "surat pengantar",
+        "surat keterangan kampus",
+        "surat dari sekolah",
+        "surat dari kampus"
+      ]
+    },
+    {
+      "tag": "cara_kirim_berkas",
+      "category": "Pendaftaran",
+      "patterns": [
+        "Bagaimana cara mengirim berkas pendaftaran?",
+        "Berkas dikirim ke mana?",
+        "kirim berkas pendaftaran kemana",
+        "upload dokumen daftar dimana",
+        "cara ngirim berkas magang gimana",
+        "berkas pendaftaran dikirim lewat apa",
+        "file pendaftaran dikirim ke mana ya",
+        "cara submit dokumen daftar gimana",
+        "metode pengiriman dokumen pendaftaran itu lewat apa",
+        "berkas lamaran magang dikirimnya via platform apa",
+        "submit dokumen pendaftaran itu prosesnya gimana",
+        "cara ngirim file2 pendaftaran magang tuh gimana step-nya",
+        "upload berkas lamaran magang dimana linknya",
+        "proses pengiriman dokumen daftar magang lewat mana"
+      ],
+      "responses": [
+        "Semua berkas dikirim melalui formulir pendaftaran yang telah disediakan. Pastikan seluruh dokumen berhasil terunggah sebelum mengirim formulir. Jika mengalami kendala saat mengunggah berkas, silakan menghubungi Admin Magang."
+      ],
+      "keywords": [
+        "kirim berkas",
+        "upload dokumen",
+        "berkas dikirim",
+        "submit dokumen"
+      ]
+    },
+    {
+      "tag": "daftar_online",
+      "category": "Pendaftaran",
+      "patterns": [
+        "Apakah bisa mendaftar secara online?",
+        "Bisa daftar online gak?",
+        "bisa daftar dari rumah gak",
+        "daftar magang online bisa gak",
+        "gaperlu dateng ke kantor buat daftar?",
+        "pendaftaran full online gak",
+        "daftar magang lewat hp bisa gak",
+        "gimana kalau daftar dari luar kota",
+        "seluruh proses pendaftaran magang bisa dilakuin online semua gak",
+        "gaperlu dateng langsung ke kantor buat proses daftar magang",
+        "pendaftaran magang berbasis online sepenuhnya atau ada tahap offline",
+        "buat yang domisili jauh, bisa daftar tanpa dateng langsung gak",
+        "sistem pendaftaran magangnya paperless/online semua gak",
+        "daftar magang cukup lewat form online aja tanpa perlu ke lokasi",
+        "isi formulir pendaftaran magang bisa dilakuin dari rumah tanpa ke kantor gak",
+        "proses submit form daftar magang cukup online semua tanpa perlu dateng gak",
+        "pendaftaran magang paperless, gaperlu print atau dateng langsung kan"
+      ],
+      "responses": [
+        "Ya, seluruh proses pendaftaran dapat dilakukan secara online melalui formulir pendaftaran tanpa perlu datang langsung ke lokasi. Setelah data dikirim, Admin akan melakukan verifikasi dan menghubungi Anda apabila ada informasi lanjutan atau tahapan seleksi berikutnya."
+      ],
+      "keywords": [
+        "daftar online",
+        "daftar dari rumah",
+        "pendaftaran online",
+        "tanpa datang"
+      ]
+    },
+    {
+      "tag": "proses_seleksi",
+      "category": "Seleksi",
+      "patterns": [
+        "Bagaimana proses seleksi magang?",
+        "Proses seleksinya kayak gimana?",
+        "tahapan seleksi magang apa aja",
+        "abis daftar terus prosesnya gimana",
+        "alur seleksi magang gimana",
+        "proses abis submit form apa aja",
+        "seleksi magang ada tahapan apa aja",
+        "step seleksi magang gimana urutannya",
+        "urutan tahapan seleksi magang dari awal sampai diterima gimana",
+        "setelah submit form, tahap seleksi berikutnya apa aja",
+        "proses seleksi peserta magang meliputi tahap apa aja",
+        "gambaran alur seleksi magang dari daftar sampai pengumuman gimana",
+        "tahapan yang harus dilewati buat lolos seleksi magang apa aja",
+        "seleksi magangnya ada berapa tahap dan apa aja isinya"
+      ],
+      "responses": [
+        "Proses seleksi magang dilakukan secara sederhana dan bertahap. Setelah formulir pendaftaran beserta dokumen yang dipersyaratkan diterima, tim akan melakukan seleksi administrasi untuk memastikan kelengkapan dan kesesuaian data. Selanjutnya, calon peserta akan mengikuti tanya jawab singkat melalui WhatsApp untuk mengetahui mulai magangnya."
+      ],
+      "keywords": [
+        "proses seleksi",
+        "tahapan seleksi",
+        "alur seleksi"
+      ]
+    },
+    {
+      "tag": "tes_wawancara",
+      "category": "Seleksi",
+      "patterns": [
+        "Apakah ada tes atau wawancara?",
+        "Ada wawancara gak buat seleksi magang?",
+        "ada interview gak buat magang",
+        "bakal di wawancara gak",
+        "harus tes dulu gak buat magang",
+        "seleksinya ada tes tulis gak",
+        "wawancara magang lewat apa",
+        "ada psikotes gak buat daftar magang",
+        "tahap seleksinya termasuk sesi interview langsung gak",
+        "bakal ada sesi tanya jawab sama tim HR gak buat magang",
+        "interview magang dilakuin online atau tatap muka",
+        "sebelum diterima magang, ada tahap wawancara dulu gak",
+        "sesi interview magang biasanya nanyain apa aja",
+        "proses seleksi magang termasuk tes wawancara langsung gak"
+      ],
+      "responses": [
+        "Tidak ada tes tertulis maupun wawancara formal. Seleksi hanya dilakukan melalui pemeriksaan administrasi dan tanya jawab singkat dengan Admin Magang. Oleh karena itu, pastikan data yang dikirimkan lengkap dan jawablah pertanyaan dari Admin dengan jujur dan jelas."
+      ],
+      "keywords": [
+        "tes wawancara",
+        "ada wawancara",
+        "interview magang",
+        "tes tulis",
+        "psikotes"
+      ]
+    },
+    {
+      "tag": "lama_seleksi",
+      "category": "Seleksi",
+      "patterns": [
+        "Berapa lama proses seleksi?",
+        "Seleksi magang berapa lama?",
+        "seleksi magang makan waktu berapa lama",
+        "berapa hari nunggu hasil seleksi",
+        "abis daftar berapa lama diproses",
+        "waktu seleksi magang berapa lama sih",
+        "nunggu konfirmasi seleksi berapa lama",
+        "proses review pendaftaran berapa lama",
+        "proses seleksinya makan waktu berapa hari",
+        "dari daftar sampai hasil seleksi berapa lama",
+        "waktu tunggu hasil seleksi berapa hari",
+        "seberapa lama tahap seleksi pendaftaran berlangsung",
+        "estimasi durasi proses seleksi sampai keluar hasil berapa lama",
+        "biasanya butuh berapa hari kerja buat proses seleksi kelar",
+        "rentang waktu dari submit form sampai ada kabar berapa lama",
+        "berapa lama estimasi waktu tunggu buat tau hasil seleksi"
+      ],
+      "responses": [
+        "Proses seleksi umumnya memerlukan waktu sekitar 1–2 hari kerja sejak formulir pendaftaran dan dokumen dinyatakan lengkap. Lama proses dapat menyesuaikan dengan jumlah pendaftar yang sedang diproses. Jika terdapat kekurangan data, Admin akan menghubungi Anda untuk melengkapinya terlebih dahulu."
+      ],
+      "keywords": [
+        "berapa lama seleksi",
+        "waktu tunggu hasil",
+        "seleksi berapa lama",
+        "estimasi waktu seleksi"
+      ]
+    },
+    {
+      "tag": "cara_tahu_hasil_seleksi",
+      "category": "Seleksi",
+      "patterns": [
+        "Bagaimana cara mengetahui hasil seleksi?",
+        "Hasil seleksi diinfoin lewat mana?",
+        "hasil seleksi dikabarin lewat apa",
+        "gimana cara tau lolos atau enggak",
+        "pengumuman hasil seleksi lewat mana",
+        "info diterima atau ditolak dikirim kemana",
+        "cara cek status lolos seleksi gimana",
+        "hasil seleksi diinfoin kapan dan lewat apa",
+        "notifikasi hasil seleksi dikirim lewat media apa",
+        "channel pengumuman hasil seleksi magang apa aja",
+        "cara ngecek status lolos gak nya seleksi magang gimana",
+        "info diterima atau tidaknya magang disampaikan lewat cara apa",
+        "hasil akhir seleksi magang diumumin lewat mana",
+        "buat tau lolos seleksi atau tidak, aku perlu cek dimana"
+      ],
+      "responses": [
+        "Hasil seleksi akan disampaikan secara langsung melalui WhatsApp ke nomor yang telah didaftarkan pada formulir pendaftaran. Oleh karena itu, pastikan nomor WhatsApp yang dicantumkan aktif dan dapat dihubungi. Mohon menunggu informasi dari Admin selama proses seleksi berlangsung."
+      ],
+      "keywords": [
+        "hasil seleksi",
+        "cara tau lolos",
+        "pengumuman hasil",
+        "status lolos"
+      ]
+    },
+    {
+      "tag": "daftar_ulang_jika_gagal",
+      "category": "Seleksi",
+      "patterns": [
+        "Jika belum diterima, apakah boleh mendaftar kembali?",
+        "Kalau gagal seleksi, boleh daftar lagi?",
+        "kalo ga lolos bisa daftar lagi gak",
+        "gagal seleksi boleh coba lagi gak",
+        "belum diterima bisa apply ulang gak",
+        "ditolak sekali, masih ada kesempatan lagi gak",
+        "boleh daftar lagi setelah gagal seleksi?",
+        "kalau gak lolos batch ini bisa daftar batch depan gak",
+        "apakah bisa daftar lagi kalau ditolak",
+        "berapa kali boleh coba daftar magang",
+        "ada batasan daftar ulang gak",
+        "kapan bisa daftar ulang setelah gagal",
+        "kalau ditolak di batch ini, boleh nyoba lagi di batch selanjutnya gak",
+        "ada masa tunggu tertentu sebelum boleh daftar ulang gak",
+        "setelah gagal seleksi sekali, ada kesempatan kedua gak",
+        "batas maksimal percobaan daftar magang berapa kali"
+      ],
+      "responses": [
+        "Tentu, boleh. Apabila belum lolos pada kesempatan sebelumnya, Anda dipersilakan untuk mendaftar kembali pada periode pendaftaran berikutnya atau saat terdapat posisi yang sesuai dengan kualifikasi Anda. Sebelum mendaftar kembali, disarankan untuk melengkapi dokumen, memperbarui CV atau portofolio (jika ada), serta memastikan seluruh persyaratan telah dipenuhi agar peluang diterima menjadi lebih baik."
+      ],
+      "keywords": [
+        "daftar ulang",
+        "gagal seleksi",
+        "belum diterima",
+        "daftar lagi",
+        "ditolak seleksi"
+      ]
+    },
+    {
+      "tag": "durasi_magang",
+      "category": "Program Magang",
+      "patterns": [
+        "Berapa lama durasi magang?",
+        "Magang berlangsung berapa bulan?",
+        "magang disini berapa bulan",
+        "durasi minimal magang berapa lama",
+        "boleh magang lebih dari setahun gak",
+        "lama waktu magang berapa bulan",
+        "magang paling singkat berapa bulan",
+        "durasi magang bisa disesuain gak",
+        "magangnya berlangsung selama berapa bulan",
+        "total waktu program magang berapa lama",
+        "berapa bulan masa kerja magangnya",
+        "durasi keseluruhan program magang berapa lama",
+        "range waktu program magang biasanya berapa lama",
+        "magang disini fleksibel durasinya atau fixed",
+        "estimasi lama waktu keseluruhan program magang berapa bulan",
+        "batas maksimal dan minimal durasi magang berapa lama"
+      ],
+      "responses": [
+        "Durasi program magang minimal 3 bulan dan maksimal 1 tahun. Namun, apabila terdapat ketentuan dari sekolah atau kampus yang mengharuskan durasi magang kurang dari 3 bulan, peserta tetap diperbolehkan mengikuti program dengan melampirkan informasi atau ketentuan tersebut. Lama magang akan disesuaikan dengan kebutuhan peserta serta kebijakan yang berlaku."
+      ],
+      "keywords": [
+        "durasi magang",
+        "berapa bulan magang",
+        "lama magang",
+        "magang berapa bulan"
+      ]
+    },
+    {
+      "tag": "kapan_mulai_magang",
+      "category": "Program Magang",
+      "patterns": [
+        "Kapan program magang dimulai?",
+        "Magang mulai kapan?",
+        "magang bisa mulai kapan aja",
+        "tanggal mulai magang nentuin sendiri bisa gak",
+        "abis diterima, magang mulai kapan",
+        "start magang biasanya kapan",
+        "kapan bisa mulai kerja magang",
+        "penentuan tanggal mulai magang gimana",
+        "jadwal onboarding peserta magang biasanya kapan",
+        "setelah dinyatakan diterima, mulai magangnya kapan",
+        "tanggal resmi mulai kerja magang ditentuin gimana",
+        "peserta magang mulai aktif kerja dari kapan",
+        "kapan waktu ideal buat mulai magang di sini",
+        "start date magang bisa dipilih sendiri atau ditentuin"
+      ],
+      "responses": [
+        "Program magang dimulai sesuai dengan tanggal yang diajukan oleh peserta pada saat pendaftaran. Setelah dinyatakan lolos seleksi, Admin akan melakukan konfirmasi terkait jadwal mulai magang agar sesuai dengan kebutuhan peserta dan ketersediaan divisi yang dipilih."
+      ],
+      "keywords": [
+        "kapan mulai magang",
+        "mulai magang",
+        "tanggal mulai magang",
+        "start magang"
+      ]
+    },
+    {
+      "tag": "jadwal_fleksibel",
+      "category": "Program Magang",
+      "patterns": [
+        "Apakah jadwal magang fleksibel?",
+        "Jadwal magang bisa disesuaikan gak?",
+        "jadwal magang bisa disesuaikan sama kuliah gak",
+        "kalau masih kuliah jadwalnya gimana",
+        "jam magang bisa nego gak",
+        "jadwal magang fix atau fleksibel",
+        "bisa atur jadwal sendiri gak",
+        "buat yang masih sekolah jadwalnya gimana",
+        "buat peserta yang masih ada jadwal kuliah, jamnya bisa disesuain gak",
+        "jam magang mengikuti jadwal masing-masing peserta bisa gak",
+        "ada opsi part time buat yang masih sekolah/kuliah gak",
+        "jadwal kerja magang kaku atau bisa dinego sesuai kesibukan",
+        "buat yang jadwal kuliahnya padat, ada penyesuaian jam magang gak",
+        "sistem jam magangnya fixed atau menyesuaikan peserta"
+      ],
+      "responses": [
+        "Ya, jadwal magang cukup fleksibel dan dapat disesuaikan dengan kebutuhan peserta, terutama bagi mahasiswa atau siswa yang masih memiliki jadwal perkuliahan maupun sekolah. Meskipun demikian, setiap peserta tetap akan memiliki jadwal kerja yang telah ditentukan dan diharapkan dapat mematuhi jam operasional serta ketentuan kehadiran selama masa magang."
+      ],
+      "keywords": [
+        "jadwal fleksibel",
+        "jadwal disesuaikan",
+        "jam magang nego",
+        "masih kuliah jadwal"
+      ]
+    },
+    {
+      "tag": "jam_kerja",
+      "category": "Program Magang",
+      "patterns": [
+        "Berapa jam kerja peserta magang?",
+        "Jam kerja magang berapa jam sehari?",
+        "magang masuk jam berapa",
+        "jam operasional magang berapa jam",
+        "kerja magang dari jam berapa sampai jam berapa",
+        "working hours magang berapa jam",
+        "jam masuk sama pulang magang jam berapa",
+        "durasi kerja per hari berapa jam",
+        "jam operasional kerja peserta magang mulai dan selesai jam berapa",
+        "total jam kerja per minggu buat anak magang berapa jam",
+        "peserta magang kerja full day atau setengah hari",
+        "jadwal jam kerja standar magang di sini gimana",
+        "berapa jam per hari waktu efektif kerja magang"
+      ],
+      "responses": [
+        "Jam kerja peserta magang adalah 8 jam per hari, yang terdiri dari 7 jam jam kerja efektif dan 1 jam waktu istirahat. Jadwal kerja akan disesuaikan dengan ketentuan operasional perusahaan serta divisi masing-masing. Selama menjalani program magang, peserta diharapkan hadir tepat waktu, mematuhi jam kerja yang telah ditetapkan, mengikuti seluruh kegiatan dan arahan dari pembimbing, serta menyelesaikan setiap tugas dengan penuh tanggung jawab dan profesionalisme."
+      ],
+      "keywords": [
+        "jam kerja",
+        "jam masuk magang",
+        "working hours",
+        "jam operasional"
+      ]
+    },
+    {
+      "tag": "pilih_divisi",
+      "category": "Program Magang",
+      "patterns": [
+        "Apakah bisa memilih divisi?",
+        "Boleh pilih divisi magang sendiri gak?",
+        "bisa milih divisi sendiri gak",
+        "penempatan divisi ditentuin atau milih sendiri",
+        "boleh request divisi tertentu gak",
+        "bisa pilih posisi yang diminati gak",
+        "penempatan magang gimana caranya",
+        "bisa ganti divisi kalau gamatch gak",
+        "penentuan divisi magang berdasarkan preferensi peserta atau kebutuhan tim",
+        "boleh milih lebih dari satu divisi minat gak pas daftar",
+        "penempatan divisi ditentuin dari hasil seleksi atau permintaan sendiri",
+        "kalau minat di beberapa divisi, gimana cara milihnya",
+        "sistem penempatan divisi magang gimana prosesnya"
+      ],
+      "responses": [
+        "Ya, peserta dapat memilih divisi yang ingin dilamar sesuai dengan minat, kemampuan, atau latar belakang pendidikan. Namun, penempatan akhir akan disesuaikan dengan ketersediaan posisi, kebutuhan perusahaan, serta hasil seleksi. Apabila divisi yang dipilih sedang penuh, Admin dapat memberikan rekomendasi divisi lain yang masih sesuai dengan kompetensi peserta."
+      ],
+      "keywords": [
+        "pilih divisi",
+        "milih divisi",
+        "penempatan divisi",
+        "request divisi"
+      ]
+    },
+    {
+      "tag": "daftar_divisi",
+      "category": "Program Magang",
+      "patterns": [
+        "Divisi apa saja yang menerima peserta magang?",
+        "Ada divisi apa aja buat magang?",
+        "posisi magang yang dibuka apa aja",
+        "divisi yang lagi open apa aja",
+        "formasi magang apa aja yang tersedia",
+        "ada lowongan magang IT gak",
+        "list divisi magang apa aja",
+        "bidang apa aja yang bisa dilamar",
+        "posisi apa aja yang tersedia buat peserta magang saat ini",
+        "kategori divisi yang menerima magang ada apa aja",
+        "list lengkap bidang/divisi magang yang dibuka apa",
+        "divisi non-teknis ada yang buka lowongan magang gak",
+        "formasi magang untuk jurusan tertentu ada dimana aja",
+        "Divisinya apa saja?",
+        "Divisinya ada apa?"
+      ],
+      "responses": [
+        "Berikut beberapa formasi yang sedang dibuka, yaitu:\n1. Administrasi\n2. UI/UX Designer\n3. Programmer (Front end / Back end)\n4. Human Resource\n5. Social Media Specialist\n6. Photographer/Videographer\n7. Content Writer\n8. Marketing & Sales\n9. Content Creative (Desain Grafis)\n10. Digital Marketing\n11. Marcom/Public Relations\n12. Tik Tok Creator\n13. Content Planner\n14. Project Manager\n15. Las\n16. Animasi"
+      ],
+      "keywords": [
+        "divisi apa saja",
+        "divisi magang",
+        "posisi magang",
+        "formasi magang",
+        "lowongan magang"
+      ]
+    },
+    {
+      "tag": "tugas_peserta",
+      "category": "Program Magang",
+      "patterns": [
+        "Apa saja tugas peserta magang?",
+        "Peserta magang ngerjain apa aja?",
+        "kerjaan anak magang ngapain aja",
+        "jobdesk peserta magang apa",
+        "tugas harian anak magang apa aja",
+        "nanti disuruh ngerjain apa aja",
+        "peserta magang dikasih kerjaan apa",
+        "aktivitas selama magang ngapain aja",
+        "deskripsi pekerjaan harian peserta magang itu ngapain aja",
+        "peserta magang biasanya dikasih project atau tugas rutin",
+        "tanggung jawab utama anak magang di sini apa",
+        "kerjaan sehari-hari selama magang itu seputar apa",
+        "peserta magang bakal handle tugas apa aja tiap harinya"
+      ],
+      "responses": [
+        "Selama menjalani program magang, peserta akan mengerjakan berbagai project dan tugas yang diberikan oleh mentor sesuai dengan divisi yang ditempati. Tugas yang diberikan dirancang untuk memberikan pengalaman kerja nyata, mengembangkan keterampilan teknis maupun soft skill, serta membantu peserta memahami alur kerja di dunia profesional. Selain mengerjakan project, peserta juga diharapkan aktif berdiskusi, belajar, dan menyelesaikan setiap tugas sesuai dengan target dan arahan yang diberikan."
+      ],
+      "keywords": [
+        "tugas peserta",
+        "jobdesk magang",
+        "kerjaan anak magang",
+        "tugas harian magang"
+      ]
+    },
+    {
+      "tag": "mentor_pembimbing",
+      "category": "Program Magang",
+      "patterns": [
+        "Apakah setiap peserta mendapatkan pembimbing atau mentor?",
+        "Ada mentor gak selama magang?",
+        "nanti dibimbing sama siapa",
+        "ada yang ngajarin selama magang gak",
+        "bakal ada pembimbing gak",
+        "siapa yang jadi mentor magang",
+        "ada pendampingan gak selama magang",
+        "kalau ada masalah ngadu ke siapa",
+        "siapa yang bimbing peserta magang",
+        "ada orang yang ngajarin kerja gak selama magang",
+        "peserta magang didampingi siapa",
+        "mentor magangnya dari tim mana",
+        "penunjukan mentor buat tiap peserta magang gimana caranya",
+        "satu peserta dapet satu mentor atau digabung",
+        "mentor magang berperan buat bantu apa aja",
+        "kalau ada kesulitan teknis, konsultasinya ke mentor atau siapa"
+      ],
+      "responses": [
+        "Ya, setiap peserta magang akan mendapatkan pembimbing (mentor) sesuai dengan divisi yang ditempati. Mentor akan memberikan arahan, pendampingan, serta bimbingan dalam mengerjakan project dan tugas selama masa magang. Selain itu, peserta juga akan didampingi oleh tim Human Resources (HR) yang siap membantu terkait proses administrasi, kehadiran, kebutuhan selama magang, serta menjawab pertanyaan atau kendala yang berkaitan dengan program magang. Dengan adanya pendampingan dari mentor dan HR, peserta diharapkan dapat menjalani program magang dengan nyaman, terarah, dan memperoleh pengalaman belajar yang optimal."
+      ],
+      "keywords": [
+        "ada mentor",
+        "siapa mentor",
+        "pembimbing magang",
+        "dibimbing siapa"
+      ]
+    },
+    {
+      "tag": "sistem_kerja_wfo",
+      "category": "Pelaksanaan",
+      "patterns": [
+        "Apakah magang dilakukan secara WFO, WFH, atau hybrid?",
+        "Magang ini WFH atau WFO?",
+        "magang wajib ke kantor gak",
+        "bisa magang dari rumah gak",
+        "sistem kerjanya remote atau ngantor",
+        "wfh apa wfo nih magangnya",
+        "kerjanya di kantor terus atau bisa remote",
+        "magang ini hybrid gak",
+        "magang bisa online gak",
+        "kerjanya harus datang ke kantor terus",
+        "boleh gak magang secara daring",
+        "kebijakan kerja magang ini full ngantor atau ada opsi remote",
+        "aturan kerja WFO/WFH buat anak magang gimana",
+        "apakah semua divisi wajib WFO atau tergantung tim",
+        "peserta magang wajib hadir fisik ke kantor atau boleh remote",
+        "kerja magang berlangsung tatap muka atau jarak jauh",
+        "model kerja anak magang ngantor terus atau ada hybrid",
+        "magang disini ngantor full time atau ada hari remote",
+        "keseharian kerja pas magang nanti WFO terus atau ada opsi WFH",
+        "aktivitas kerja harian anak magang dilakuin di kantor atau boleh remote",
+        "selama masa magang berlangsung, kerjanya wajib ngantor tiap hari gak"
+      ],
+      "responses": [
+        "Program magang dilaksanakan secara Work From Office (WFO). Seluruh peserta diharapkan hadir dan bekerja langsung di kantor agar dapat berkolaborasi dengan tim, memperoleh bimbingan dari mentor, serta mendapatkan pengalaman kerja yang lebih optimal."
+      ],
+      "keywords": [
+        "wfo atau wfh",
+        "kerja remote",
+        "kerja dari rumah",
+        "hybrid magang",
+        "wfh wfo"
+      ]
+    },
+    {
+      "tag": "lokasi_magang",
+      "category": "Pelaksanaan",
+      "patterns": [
+        "Di mana lokasi magang?",
+        "Alamat kantor magang di mana?",
+        "kantornya dimana",
+        "alamat magang dimana ya",
+        "lokasi kantor buat magang dimana",
+        "magangnya di daerah mana",
+        "titik lokasi kantor dimana",
+        "kantor magangnya di kota mana",
+        "titik koordinat/alamat lengkap kantor tempat magang dimana",
+        "kantor tempat pelaksanaan magang berlokasi di kota mana",
+        "buat yang dari luar kota, lokasi magangnya dimana ya",
+        "domisili kantor magang itu di daerah mana"
+      ],
+      "responses": [
+        "Program magang dilaksanakan di kantor yang beralamat: Jl. Janti Gg. Arjuna No. 59, Karangjambe, Banguntapan, Bantul, Daerah Istimewa Yogyakarta 55198."
+      ],
+      "keywords": [
+        "lokasi magang",
+        "alamat kantor",
+        "dimana kantor",
+        "kantor dimana"
+      ]
+    },
+    {
+      "tag": "yang_dibawa_hari_pertama",
+      "category": "Pelaksanaan",
+      "patterns": [
+        "Apa saja yang harus dibawa pada hari pertama?",
+        "Hari pertama magang bawa apa aja?",
+        "hari pertama masuk bawa apa aja",
+        "wajib bawa apa pas hari pertama magang",
+        "first day magang harus bawa apa",
+        "persiapan hari pertama magang apa aja",
+        "sebelum masuk hari pertama siapin apa",
+        "hari h magang bawa berkas apa aja",
+        "checklist barang yang wajib dibawa pas hari pertama masuk apa aja",
+        "sebelum masuk hari pertama magang, perlu bawa dokumen apa",
+        "hari pertama onboarding magang harus bawa perlengkapan apa",
+        "barang wajib dibawa waktu pertama kali masuk kerja magang apa"
+      ],
+      "responses": [
+        "Pada hari pertama magang, peserta diwajibkan membawa fotokopi (FC) KTP untuk keperluan administrasi. Selain itu, disarankan membawa perlengkapan pribadi yang dibutuhkan selama bekerja, seperti alat tulis, botol minum, dan laptop apabila diwajibkan oleh divisi yang ditempati. Pastikan hadir tepat waktu agar proses orientasi dapat berjalan dengan lancar."
+      ],
+      "keywords": [
+        "hari pertama",
+        "bawa apa hari pertama",
+        "first day magang",
+        "hari pertama masuk"
+      ]
+    },
+    {
+      "tag": "wajib_laptop_pribadi",
+      "category": "Pelaksanaan",
+      "patterns": [
+        "Apakah harus menggunakan laptop pribadi?",
+        "Wajib bawa laptop sendiri gak?",
+        "harus bawa laptop sendiri gak",
+        "disediain laptop sama kantor gak",
+        "kalau gapunya laptop gimana",
+        "semua divisi wajib bawa laptop gak",
+        "laptop dari kantor ada gak",
+        "buat divisi non-IT wajib laptop gak",
+        "buat divisi tertentu, laptop disediain kantor atau bawa sendiri",
+        "kebijakan penggunaan laptop pribadi selama magang gimana",
+        "kalau laptop rusak/gak ada, ada solusi dari kantor gak",
+        "device kerja selama magang disiapin sendiri atau dari perusahaan"
+      ],
+      "responses": [
+        "Kebutuhan perangkat kerja disesuaikan dengan divisi yang dipilih. Divisi IT diwajibkan menggunakan laptop pribadi, karena peserta akan melakukan pengembangan aplikasi, pemrograman, atau pekerjaan teknis yang memerlukan perangkat dengan konfigurasi masing-masing. Divisi Digital Marketing dan Social Media Specialist tidak diwajibkan membawa laptop karena dapat menggunakan PC yang telah disediakan oleh kantor."
+      ],
+      "keywords": [
+        "laptop pribadi",
+        "bawa laptop sendiri",
+        "disediakan laptop",
+        "laptop sendiri"
+      ]
+    },
+    {
+      "tag": "dress_code",
+      "category": "Pelaksanaan",
+      "patterns": [
+        "Apakah ada seragam atau dress code?",
+        "Ada aturan pakaian gak buat magang?",
+        "pakaian magang bebas gak",
+        "ada aturan baju gak buat magang",
+        "boleh pakai kaos pas magang gak",
+        "dresscode kantor gimana",
+        "harus pakai kemeja gak",
+        "aturan berpakaian selama magang gimana",
+        "ketentuan berpakaian resmi selama magang gimana aturannya",
+        "peserta magang wajib pakai seragam tertentu gak",
+        "aturan dresscode buat kerja WFH sama WFO beda gak",
+        "boleh pakai baju casual selama magang gak"
+      ],
+      "responses": [
+        "Tidak ada seragam khusus yang diwajibkan selama mengikuti program magang. Namun, seluruh peserta diharapkan mengenakan pakaian yang rapi, sopan, bersih, dan profesional, serta sesuai dengan lingkungan kerja. Peserta juga diharapkan menjaga penampilan agar tetap mencerminkan etika dan profesionalisme di tempat kerja."
+      ],
+      "keywords": [
+        "dress code",
+        "aturan pakaian",
+        "seragam magang",
+        "baju bebas"
+      ]
+    },
+    {
+      "tag": "aturan_selama_magang",
+      "category": "Pelaksanaan",
+      "patterns": [
+        "Apakah ada aturan selama mengikuti magang?",
+        "Ada peraturan khusus gak selama magang?",
+        "ada tata tertib gak selama magang",
+        "peraturan magang disini gimana",
+        "SOP magang isinya apa aja",
+        "ada aturan yang wajib dipatuhi gak",
+        "tata tertib peserta magang apa aja",
+        "peraturan yang harus ditaati selama magang apa",
+        "code of conduct yang wajib dipatuhi peserta magang apa aja",
+        "kebijakan internal yang berlaku buat anak magang gimana",
+        "ada aturan khusus terkait perilaku selama magang gak",
+        "regulasi yang mengatur peserta magang selama program berlangsung apa",
+        "ketentuan umum yang mengikat semua peserta magang apa aja",
+        "larangan-larangan yang perlu dihindari selama ikut magang apa",
+        "hal-hal yang gak boleh dilakuin peserta magang apa aja",
+        "panduan perilaku peserta selama program magang berlangsung gimana",
+        "batasan dan larangan resmi buat anak magang apa aja"
+      ],
+      "responses": [
+        "Ya ada. Seluruh peserta magang wajib mematuhi Standar Operasional Prosedur (SOP) Magang yang berlaku di perusahaan. SOP tersebut mengatur berbagai hal, seperti jam kerja, tata tertib, etika kerja, penggunaan fasilitas kantor, komunikasi dengan mentor maupun rekan kerja, ketentuan izin, absensi, serta kewajiban dan tanggung jawab peserta selama menjalani program magang. SOP akan diberikan kepada peserta sebelum atau pada hari pertama magang dan wajib dipahami serta dipatuhi."
+      ],
+      "keywords": [
+        "aturan magang",
+        "tata tertib",
+        "peraturan magang",
+        "sop magang"
+      ]
+    },
+    {
+      "tag": "izin_atau_sakit",
+      "category": "Pelaksanaan",
+      "patterns": [
+        "Bagaimana jika ingin izin atau sakit?",
+        "Cara izin kalau sakit gimana?",
+        "kalau mau izin gimana caranya",
+        "cara ngajuin sakit gimana",
+        "izin gabisa masuk gimana prosedurnya",
+        "kalau sakit harus lapor kemana",
+        "cara izin gak masuk magang gimana",
+        "prosedur izin selama magang gimana",
+        "mekanisme pengajuan cuti/izin selama magang gimana",
+        "kalau berhalangan hadir karena sakit, lapornya kemana",
+        "prosedur resmi buat izin gak masuk magang apa",
+        "batas maksimal izin selama program magang berapa kali"
+      ],
+      "responses": [
+        "Apabila peserta berhalangan hadir karena keperluan pribadi, izin harus disampaikan kepada HR atau mentor minimal H-1 sebelum tanggal ketidakhadiran agar pekerjaan dapat disesuaikan. Jika peserta tidak dapat hadir karena sakit, segera informasikan kepada HR atau mentor dan lampirkan surat keterangan sakit dari dokter atau fasilitas kesehatan sebagai bukti pendukung. Komunikasi yang baik terkait izin dan ketidakhadiran merupakan bagian dari penilaian kedisiplinan peserta."
+      ],
+      "keywords": [
+        "izin sakit",
+        "cara izin",
+        "izin tidak masuk",
+        "cuti magang"
+      ]
+    },
+    {
+      "tag": "sistem_absensi",
+      "category": "Pelaksanaan",
+      "patterns": [
+        "Apakah ada sistem absensi?",
+        "Absensi magang gimana sistemnya?",
+        "absen magang pakai apa",
+        "cara absen selama magang gimana",
+        "ada aplikasi absensi gak",
+        "absennya manual atau online",
+        "presensi magang gimana caranya",
+        "wajib absen tiap hari gak",
+        "mekanisme pencatatan kehadiran peserta magang gimana",
+        "absensi magang pakai aplikasi khusus atau manual",
+        "cara tracking kehadiran anak magang gimana sistemnya",
+        "kalau kerja WFH, absennya gimana caranya"
+      ],
+      "responses": [
+        "Ya ada. Seluruh peserta magang wajib melakukan absensi kehadiran setiap hari kerja sesuai dengan sistem yang berlaku di perusahaan. Absensi digunakan untuk mencatat kehadiran, keterlambatan, izin, maupun ketidakhadiran peserta selama program magang berlangsung. Data absensi juga menjadi salah satu aspek yang digunakan dalam evaluasi kedisiplinan dan kinerja peserta selama mengikuti program magang. Oleh karena itu, peserta diharapkan melakukan absensi secara tepat waktu dan sesuai dengan ketentuan yang telah ditetapkan."
+      ],
+      "keywords": [
+        "sistem absensi",
+        "absen magang",
+        "cara absen",
+        "aplikasi absensi"
+      ]
+    },
+    {
+      "tag": "uang_saku",
+      "category": "Fasilitas",
+      "patterns": [
+        "Apakah peserta magang mendapatkan uang saku?",
+        "Magang ini dibayar gak?",
+        "Ada uang saku gak buat magang?",
+        "magang ini dibayar gak",
+        "ada gaji buat anak magang gak",
+        "dapet uang saku gak selama magang",
+        "magang disini paid apa unpaid",
+        "ada kompensasi finansial gak",
+        "dapat honor gak selama magang",
+        "kompensasi finansial buat peserta magang ada gak selama program",
+        "besaran uang saku magang ditentuin berdasarkan apa",
+        "semua peserta dapet uang saku yang sama atau beda-beda",
+        "magang disini termasuk paid internship gak",
+        "insentif bulanan buat anak magang ada gak",
+        "nominal kompensasi bulanan buat peserta magang berapa",
+        "gaji atau honor magang dibayar tiap bulan atau sekali diakhir",
+        "penghasilan yang didapat selama ikut program magang berapa"
+      ],
+      "responses": [
+        "Tidak, program magangnya unpaid."
+      ],
+      "keywords": [
+        "biaya",
+        "gratis",
+        "bayar",
+        "unpaid",
+        "uang saku"
+      ]
+    },
+    {
+      "tag": "fasilitas_makan_transport",
+      "category": "Fasilitas",
+      "patterns": [
+        "Apakah ada fasilitas makan atau transport?",
+        "Ada uang makan atau transport gak?",
+        "ada uang makan gak",
+        "dikasih uang transport gak",
+        "fasilitas makan siang ada gak",
+        "transport allowance ada gak",
+        "makan siang ditanggung gak",
+        "ongkos transport diganti gak",
+        "tunjangan operasional selain uang saku ada gak, kayak makan/transport",
+        "biaya transportasi harian ditanggung perusahaan gak",
+        "ada subsidi makan siang buat peserta magang gak",
+        "fasilitas penunjang selain gaji pokok magang ada apa aja"
+      ],
+      "responses": [
+        "Tidak ada fasilitas uang makan maupun uang transport selama program magang berlangsung, karena program ini bersifat unpaid internship."
+      ],
+      "keywords": [
+        "uang makan",
+        "uang transport",
+        "fasilitas makan",
+        "transport allowance"
+      ]
+    },
+    {
+      "tag": "pelatihan_peserta",
+      "category": "Fasilitas",
+      "patterns": [
+        "Apakah peserta mendapatkan pelatihan?",
+        "Ada pelatihan gak selama magang?",
+        "ada training buat peserta magang gak",
+        "bakal dikasih pelatihan gak",
+        "ada sesi belajar khusus buat anak magang gak",
+        "peserta magang dapet training gak",
+        "ada onboarding/training di awal gak",
+        "dilatih dulu sebelum kerja gak",
+        "program pembekalan/training buat peserta magang ada gak di awal",
+        "sebelum mulai kerja, ada sesi pelatihan dasar dulu gak",
+        "materi onboarding buat anak magang ngebahas apa aja",
+        "peserta magang dikasih bekal skill dulu sebelum kerja gak",
+        "kurikulum pembekalan awal buat peserta magang isinya apa",
+        "sesi transfer ilmu buat anak magang diadain gak",
+        "workshop atau bimbingan teknis buat peserta magang ada gak"
+      ],
+      "responses": [
+        "Ya, peserta magang akan mendapatkan pelatihan dasar (onboarding) di awal masa magang sesuai dengan divisi yang ditempati, sebelum mulai mengerjakan tugas dan project."
+      ],
+      "keywords": [
+        "pelatihan peserta",
+        "ada training",
+        "sesi pelatihan",
+        "onboarding training"
+      ]
+    },
+    {
+      "tag": "pengalaman_proyek_nyata",
+      "category": "Fasilitas",
+      "patterns": [
+        "Apakah akan memperoleh pengalaman mengerjakan proyek nyata?",
+        "Peserta magang bisa ngerjain proyek nyata gak?",
+        "bakal megang proyek beneran gak",
+        "kerjaannya proyek real atau simulasi",
+        "dapet pengalaman kerja nyata gak",
+        "ngerjain project client asli gak",
+        "proyeknya real project atau latihan doang",
+        "bisa handle project sungguhan gak",
+        "peserta magang dilibatkan di proyek client asli atau cuma simulasi",
+        "kesempatan handle real project buat anak magang ada gak",
+        "tugas magang berupa project riil perusahaan atau latihan internal",
+        "peserta magang bisa contribute ke proyek produksi beneran gak"
+      ],
+      "responses": [
+        "Ya, peserta magang akan dilibatkan langsung dalam pengerjaan project nyata perusahaan sesuai divisinya, bukan sekadar simulasi atau latihan."
+      ],
+      "keywords": [
+        "proyek nyata",
+        "project real",
+        "proyek client",
+        "project sungguhan"
+      ]
+    },
+    {
+      "tag": "terima_siswa_smk",
+      "category": "Administrasi",
+      "patterns": [
+        "Apakah perusahaan menerima siswa SMK?",
+        "Siswa SMK bisa magang di sini gak?",
+        "anak smk bisa daftar magang gak",
+        "smk boleh apply gak",
+        "buka buat siswa smk gak",
+        "khusus mahasiswa doang atau smk juga bisa",
+        "siswa smk diterima magang gak",
+        "smk kejuruan bisa magang disini gak",
+        "khusus buat siswa SMK, ada program magang tersendiri gak",
+        "program magang ini kerjasama sama SMK juga gak",
+        "siswa SMK yang lagi PKL bisa daftar disini gak",
+        "penerimaan peserta magang mencakup jenjang SMK juga gak",
+        "PKL anak SMK bisa dilaksanain disini gak",
+        "program PKL anak SMK bisa dilaksanain di perusahaan ini gak",
+        "sekolah vokasi atau smk kejuruan bisa kerjasama magang gak",
+        "kerjasama resmi dengan pihak sekolah SMK buat PKL ada gak",
+        "siswa smk yang lagi cari tempat pkl bisa kesini gak"
+      ],
+      "responses": [
+        "Ya, perusahaan menerima siswa SMK untuk mengikuti program magang, sesuai dengan kuota dan posisi yang tersedia."
+      ],
+      "keywords": [
+        "siswa smk",
+        "anak smk",
+        "smk boleh daftar",
+        "pkl smk",
+        "program pkl",
+        "sekolah vokasi"
+      ]
+    },
+    {
+      "tag": "jurusan_diterima",
+      "category": "Administrasi",
+      "patterns": [
+        "Apakah perusahaan menerima peserta dari semua jurusan?",
+        "Jurusan apa saja yang diterima magang?",
+        "jurusan apa aja yang diterima",
+        "jurusan kuliah apa yang cocok buat magang disini",
+        "background pendidikan apa yang dibutuhin",
+        "jurusan non IT bisa daftar gak",
+        "cocok buat jurusan apa aja",
+        "jurusan yang relevan buat magang disini apa",
+        "background jurusan kuliah yang relevan buat magang disini apa aja",
+        "jurusan non-IT punya kesempatan magang disini gak",
+        "kriteria jurusan yang cocok buat posisi magang yang dibuka apa",
+        "semua jurusan boleh apply atau cuma jurusan tertentu"
+      ],
+      "responses": [
+        "Basic di IT, pemasaran, photo/videographer."
+      ],
+      "keywords": [
+        "jurusan diterima",
+        "jurusan apa saja",
+        "semua jurusan",
+        "jurusan non it"
+      ]
+    },
+    {
+      "tag": "tanda_tangan_logbook",
+      "category": "Administrasi",
+      "patterns": [
+        "Apakah perusahaan menandatangani logbook atau jurnal magang?",
+        "Logbook magang ditandatangani gak?",
+        "logbook magang ditandatangani gak",
+        "jurnal magang perlu ttd perusahaan gak",
+        "logbook harian di paraf gak",
+        "buku catatan magang di ttd gak",
+        "jurnal kegiatan magang ditandatangani gak",
+        "perlu ttd HR di logbook gak",
+        "logbook kegiatan magang perlu divalidasi sama pihak perusahaan gak",
+        "buku catatan harian magang perlu tanda tangan resmi dari kantor gak",
+        "logbook yang diminta kampus, ditandatangani HR atau mentor",
+        "validasi logbook magang dilakuin sama siapa di perusahaan"
+      ],
+      "responses": [
+        "Ya, perusahaan bersedia menandatangani logbook atau jurnal magang sesuai dengan kebutuhan administrasi kampus atau sekolah peserta."
+      ],
+      "keywords": [
+        "logbook magang",
+        "ttd logbook",
+        "tanda tangan logbook",
+        "jurnal magang"
+      ]
+    },
+    {
+      "tag": "isi_formulir_penilaian",
+      "category": "Administrasi",
+      "patterns": [
+        "Apakah perusahaan mengisi formulir penilaian dari sekolah atau kampus?",
+        "Formulir penilaian dari kampus diisi gak?",
+        "form penilaian dari kampus diisi gak",
+        "perusahaan mau isi form penilaian sekolah gak",
+        "formulir kepuasan dari kampus diisi gak",
+        "form evaluasi dari sekolah diisi gak",
+        "kampus kasih form penilaian, itu diisi gak",
+        "form nilai dari dosen pembimbing diisi gak",
+        "form penilaian akhir dari kampus/sekolah bakal diisi perusahaan gak",
+        "perusahaan bersedia isi lembar evaluasi dari institusi pendidikan gak",
+        "form nilai magang dari dosen pembimbing lapangan diisi gak",
+        "penilaian kinerja versi kampus itu diisi HR atau mentor"
+      ],
+      "responses": [
+        "Iya, seperti formulir kepuasan."
+      ],
+      "keywords": [
+        "formulir penilaian",
+        "form penilaian",
+        "form evaluasi",
+        "form nilai kampus"
+      ]
+    },
+    {
+      "tag": "surat_penerimaan_magang",
+      "category": "Administrasi",
+      "patterns": [
+        "Apakah perusahaan memberikan surat penerimaan magang?",
+        "Ada surat penerimaan magang gak?",
+        "ada surat penerimaan magang gak",
+        "dikasih surat diterima magang gak",
+        "surat keterangan diterima magang ada gak",
+        "bukti diterima magang berupa apa",
+        "acceptance letter magang ada gak",
+        "surat resmi diterima magang dikasih gak",
+        "surat bukti diterima magang di awal ada gak",
+        "waktu pertama diterima dikasih surat gak",
+        "surat konfirmasi diterima magang ada gak",
+        "bukti resmi diterima magang di awal berupa apa",
+        "surat konfirmasi resmi diterima magang dikeluarkan di tahap mana",
+        "dokumen bukti diterima magang formatnya seperti apa",
+        "acceptance letter magang diterbitkan sebelum atau sesudah mulai kerja",
+        "surat resmi tanda diterima magang dikirim lewat apa",
+        "bukti resmi diterima magang yang dikasih di awal sebelum mulai kerja apa",
+        "surat konfirmasi diterima magang diterbitkan sebelum hari pertama masuk gak"
+      ],
+      "responses": [
+        "Iya, kami berikan."
+      ],
+      "keywords": [
+        "surat penerimaan",
+        "surat diterima magang",
+        "acceptance letter",
+        "surat resmi diterima",
+        "bukti diterima awal"
+      ]
+    },
+    {
+      "tag": "sertifikat_magang",
+      "category": "Setelah Magang",
+      "patterns": [
+        "Apakah peserta mendapatkan sertifikat?",
+        "Ada sertifikat gak setelah magang?",
+        "dapet sertifikat abis magang gak",
+        "ada sertifikat selesai magang gak",
+        "sertifikat magang dikasih gak",
+        "bukti selesai magang berupa sertifikat gak",
+        "abis magang dapet sertifikat gak",
+        "certificate of completion ada gak",
+        "Kapan sertifikat diberikan?",
+        "Sertifikat magang keluar kapan?",
+        "sertifikat magang keluar berapa lama",
+        "kapan sertifikat dikasih",
+        "sertifikat dikirim kapan setelah selesai magang",
+        "proses sertifikat berapa lama",
+        "sertifikat diberikan langsung atau nyusul",
+        "berapa lama nunggu sertifikat setelah selesai",
+        "sertifikat kelulusan program magang diterbitkan format fisik atau digital",
+        "syarat buat dapetin sertifikat magang apa aja",
+        "sertifikat magang keluar otomatis atau harus diajukan dulu",
+        "bukti telah menyelesaikan program magang berupa sertifikat resmi gak",
+        "bukti resmi telah menyelesaikan program magang berupa apa",
+        "completion certificate diberikan otomatis begitu magang kelar gak"
+      ],
+      "responses": [
+        "Ya, setiap peserta yang menyelesaikan program magang akan mendapatkan sertifikat sebagai bukti telah mengikuti program magang di perusahaan. Sertifikat biasanya diberikan setelah selesai serah terima data, bisa langsung di hari terakhir magang. Kalau mundur, biasanya karena ada file yang belum diserahkan."
+      ],
+      "keywords": [
+        "sertifikat magang",
+        "certificate completion",
+        "kapan sertifikat",
+        "sertifikat diberikan",
+        "bukti selesai magang"
+      ]
+    },
+    {
+      "tag": "surat_penilaian_rekomendasi",
+      "category": "Setelah Magang",
+      "patterns": [
+        "Apakah peserta mendapatkan surat penilaian atau rekomendasi?",
+        "Ada surat rekomendasi gak setelah magang?",
+        "ada surat rekomendasi abis magang gak",
+        "dikasih penilaian tertulis gak",
+        "surat rekomendasi kerja dikasih gak",
+        "ada referensi buat lamar kerja gak",
+        "surat penilaian kinerja ada gak",
+        "recommendation letter dikasih gak",
+        "surat rekomendasi setelah selesai magang ada gak",
+        "diakhir magang dikasih surat rekomendasi gak",
+        "surat penilaian kinerja pas magang selesai ada gak",
+        "surat referensi pas udah kelar magang ada gak",
+        "surat rekomendasi kerja dari perusahaan dikasih otomatis atau harus minta",
+        "penilaian performa magang dalam bentuk surat resmi ada gak",
+        "letter of recommendation buat lamar kerja selanjutnya ada gak",
+        "surat penilaian kinerja magang bisa dipakai buat CV kerja gak",
+        "surat penilaian performa kerja selama magang bisa dipakai lamar kerja gak",
+        "dikasih evaluasi tertulis soal kinerja selama magang gak"
+      ],
+      "responses": [
+        "Ya, peserta yang telah menyelesaikan program magang berkesempatan mendapatkan surat penilaian atau surat rekomendasi dari perusahaan."
+      ],
+      "keywords": [
+        "surat rekomendasi",
+        "recommendation letter",
+        "surat penilaian kinerja",
+        "referensi kerja",
+        "evaluasi kinerja magang"
+      ]
+    },
+    {
+      "tag": "peluang_jadi_karyawan",
+      "category": "Setelah Magang",
+      "patterns": [
+        "Apakah ada kesempatan menjadi karyawan setelah magang?",
+        "Bisa diangkat jadi karyawan gak setelah magang?",
+        "bisa direkrut jadi karyawan gak abis magang",
+        "ada peluang lanjut kerja disini gak",
+        "abis magang bisa lanjut jadi pegawai gak",
+        "magang bisa berujung kerja tetap gak",
+        "kalau kinerja bagus bisa diangkat karyawan gak",
+        "ada kesempatan full time abis magang gak",
+        "track record magang yang bagus bisa jadi jalur rekrutmen karyawan gak",
+        "ada jalur khusus dari magang ke posisi full time gak",
+        "peserta magang berprestasi berpeluang ditawari kerja tetap gak",
+        "magang disini bisa jadi batu loncatan buat kerja tetap gak"
+      ],
+      "responses": [
+        "Iya, berkesempatan jadi karyawan."
+      ],
+      "keywords": [
+        "jadi karyawan",
+        "karyawan tetap",
+        "direkrut jadi karyawan",
+        "kerja tetap"
+      ]
+    },
+    {
+      "tag": "kontak_admin",
+      "category": "Kontak",
+      "patterns": [
+        "Bagaimana cara menghubungi admin magang?",
+        "Kontak admin magang apa?",
+        "nomor admin magang berapa",
+        "kontak yang bisa dihubungi apa",
+        "cp admin magang siapa",
+        "mau tanya2 hubungi siapa",
+        "wa admin magang berapa",
+        "instagram admin magang apa",
+        "channel komunikasi resmi buat tanya-tanya soal magang apa",
+        "narahubung program magang bisa dihubungi lewat mana",
+        "PIC magang buat pertanyaan seputar pendaftaran siapa",
+        "admin yang handle pertanyaan calon peserta magang siapa",
+        "ada wa ngga min"
+      ],
+      "responses": [
+        "Bisa melalui WA berikut 089529002944 atau DM Instagram magangjogja."
+      ],
+      "keywords": [
+        "kontak admin",
+        "nomor admin",
+        "hubungi admin",
+        "cp admin"
+      ]
+    },
+    {
+      "tag": "info_terbaru_magang",
+      "category": "Kontak",
+      "patterns": [
+        "Di mana saya bisa mendapatkan informasi terbaru mengenai program magang?",
+        "Update info magang bisa dilihat di mana?",
+        "info magang terbaru cek dimana",
+        "update lowongan magang liat dimana",
+        "sosmed resmi magang apa",
+        "biar gak ketinggalan info magang follow apa",
+        "pengumuman magang biasa di post dimana",
+        "cek info magang dimana ya",
+        "kanal resmi buat update terbaru soal magang apa aja",
+        "biar gak ketinggalan pengumuman magang, harus follow apa",
+        "sumber informasi resmi program magang ada dimana aja",
+        "pengumuman-pengumuman penting soal magang biasa di share dimana"
+      ],
+      "responses": [
+        "Instagram, LinkedIn, website, Twitter, Glints magangjogja."
+      ],
+      "keywords": [
+        "info terbaru magang",
+        "update info magang",
+        "sosmed resmi",
+        "info magang terbaru"
+      ]
+    },
+    {
+      "tag": "kendala_selama_magang",
+      "category": "Kontak",
+      "patterns": [
+        "Bagaimana jika mengalami kendala selama proses magang?",
+        "Kalau ada masalah selama magang harus gimana?",
+        "kalau ada masalah pas magang lapor kemana",
+        "ada kendala teknis pas magang gimana",
+        "kalau ada konflik sama mentor gimana",
+        "cara komplain selama magang gimana",
+        "kalau stuck pas kerja harus gimana",
+        "ada masalah pribadi pas magang harus gimana",
+        "kalau ada masalah teknis pekerjaan pas magang, lapor kesiapa",
+        "channel pengaduan buat peserta magang yang ada kendala apa",
+        "kalau ngerasa gak nyaman selama magang, bisa cerita kesiapa",
+        "prosedur eskalasi masalah selama program magang gimana"
+      ],
+      "responses": [
+        "Konsultasi dengan mentor untuk diberikan solusi."
+      ],
+      "keywords": [
+        "ada masalah magang",
+        "kendala magang",
+        "lapor masalah",
+        "komplain magang"
+      ]
+    }
+  ]
+}
